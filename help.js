@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝗙𝗲𝗿𝗱𝘆-𝘽𝙊𝙏 ❳━━━
+return`━━━❲ 𝘼𝙉𝙂𝙂𝘼-𝘽𝙊𝙏 ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
@@ -724,7 +724,7 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 081396094591
+Number : 082180238576
 A/N: angga
 
 *Payment Dana*
@@ -740,7 +740,7 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* ferdy
+ • *Nama:* Angga
  • *Umur:* 16 tahun
  • *Hoby:* sendiri/tiktok
  • *Askot:* Palembang
@@ -749,8 +749,8 @@ return`──「 *INFO OWNER* 」──
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 081396094591
- • *Youtube:* -
+ • *Whatsapp:* 081548907132
+ • *Youtube:* Angga_chenel
  • *Github:* gada
  `
 }
